@@ -14,6 +14,12 @@ Features:
 Improvement:
 
 - Use automatic time unit for expression report #838
+- Internal refactoring of parameters
+
+Other changes:
+
+- "0" is not longer shown as the "set name" in reports, it is now an empty
+  string.
 
 1.0.1 (2021-05-11)
 ------------------
